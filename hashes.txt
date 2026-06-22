@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Tu boca de fresa
+
+This log tracks the cryptographic history and versioning for the song **Tu boca de fresa** (tu-boca-de-fresa).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-23T04:32:22.014321 | `v1` | `482c3c44d74ceabca7d374c7326e6679273762966ab21acdd3d133d9e363d93e` | `fb162f5efd495b2b517f602f245a8bff86072e389429489e967789da88c635c1` | `2026-06-23_tu-boca-de-fresa-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

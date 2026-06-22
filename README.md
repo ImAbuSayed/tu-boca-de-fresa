@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-boca-de-fresa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Tu boca de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-boca-de-fresa/) |
+| **Get License** | [Commercial Licensing for Tu boca de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-boca-de-fresa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `482c3c44d74ceabca7d374c7326e6679273762966ab21acdd3d133d9e363d93e` |
 | **Timestamp** | June 23, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
