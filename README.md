@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/tu-boca-de-fresa/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for Tu boca de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-boca-de-fresa/) |
+| **Get License** | [Request Licensing for Tu boca de fresa](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/tu-boca-de-fresa/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Tu boca de fresa me llama otra vez
+> Ese sabor dulce que no puedo perder
+> Bailando en la noche, sin miedo a caer
+> Tu boca de fresa me hace enloquecer
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
